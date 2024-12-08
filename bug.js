@@ -1,0 +1,1 @@
+This error occurs when using Expo CLI with EAS Build. The build process fails and reports an error similar to: `Error: Command failed: npx expo prebuild --public-url=/expo/my-app`  The issue might stem from incorrect configuration of the `eas.json` file or conflicts with other project dependencies.
